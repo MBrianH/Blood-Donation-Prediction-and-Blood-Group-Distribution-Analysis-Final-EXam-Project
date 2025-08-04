@@ -112,11 +112,6 @@ This project includes a **custom IQR-based anomaly detection module** to find ex
 
 ---
 
-## 🧠 Suggested Improvements
-- Integrate time-series forecasting (e.g., ARIMA or Prophet)
-- Compare K-Means with hierarchical clustering or DBSCAN
-- Use demographic factors if available (age, gender)
 
----
 
 
