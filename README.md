@@ -93,7 +93,8 @@ An interactive dashboard visualizing the dataset:
 - Stacked column chart of blood type distribution
 - Slicers for filtering by state, year, and blood type
 screenshoots:
-<img width="864" height="490" alt="dashboard overview" src="https://github.com/user-attachments/assets/d07e7141-99ce-44f4-ab35-1ac125feddaf" />
+<img width="859" height="476" alt="dashboard overviews" src="https://github.com/user-attachments/assets/333a3771-6b3a-45a2-b164-997d0149b8fa" />
+
 
 <img width="897" height="495" alt="dashboard " src="https://github.com/user-attachments/assets/f99571c6-ed8d-42d7-8815-29a2885f43d0" />
 
