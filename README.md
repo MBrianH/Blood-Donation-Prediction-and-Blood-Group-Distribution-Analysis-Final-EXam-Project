@@ -2,7 +2,8 @@
 # 🩸 Blood Donation Prediction and Blood Group Distribution Analysis
 
 ## 👨‍💻 Author
-- **Name**: Mutsinzi Brian Heritier  
+- **Name**: Mutsinzi Brian Heritier
+- **ID**: 26522 
 - **Group**: Group B  
 - **Lecturer**: Mr. Maniraguha Eric
 
